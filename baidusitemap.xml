@@ -3,6 +3,28 @@
 
 
     
+  <url>
+    <loc>http://6aidu.com/2016/10/21/hello-world/</loc>
+    <lastmod>2016-10-21T15:22:48.033Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-10-21T06:41:17.440Z</pubTime>
+        
+        <tag>Github</tag>
+         
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://6aidu.com/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
     
     
@@ -13,21 +35,6 @@
         <display>
         <title>123</title>
         <pubTime>2016-10-21T10:16:25.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://6aidu.com/2016/10/21/hello-world/</loc>
-    <lastmod>2016-10-21T06:41:17.444Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-10-21T06:41:17.440Z</pubTime>
         
          
            
